@@ -1,5 +1,5 @@
 # Pygame-project-school
-My robot pygame for school programming course 
+My robot pygame for school programming course. This is a simple game where the goal is to avoid monsters. You have three lives and if you lose them the game ends. 
 
 Pictures of how my pygame looks like:
 
